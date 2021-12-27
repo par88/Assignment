@@ -1,0 +1,31 @@
+/* Example styling of a h1 element */
+body {
+  background-color: #fafafa;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-right: 20%;
+  padding-left: 20%;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  padding-bottom: 2%;
+  font-weight: 120;
+}
+
+p,h3 {
+  text-align: justify; 
+}
+
+li {
+  text-align: left;
+}
+
+span {
+  font-style: italic;
+}
+
+.style-type {
+  list-style-type: none;
+}
